@@ -1,4 +1,3 @@
-import React, { useEffect } from "react"
 import { home } from "../data/dummydata"
 import Typewriter from "typewriter-effect"
 
